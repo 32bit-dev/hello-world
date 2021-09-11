@@ -1,2 +1,1 @@
-# hello-world
-This is my first repository. I will store ideas and document projects here
+My name is Izuchukwu. I am new to GitHub.I hope to document my journey as a programmer here.
